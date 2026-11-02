@@ -1,0 +1,4 @@
+interface:
+  display_name: "禅道旧版管理"
+  short_description: "查询个人待办、进度异常与周月工时，维护已授权的任务、Bug和需求"
+  default_prompt: "使用 $zentao-legacy 查看待办、进度和工时，或执行我明确要求的任务、Bug及需求操作。"
